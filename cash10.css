@@ -28,14 +28,15 @@ label:hover {
 }
 
 button {
-    border: 5px solid white;
-    color: darkred;
+    border: 5px solid rgb(240, 28, 127);
+    margin: 1rem;;
+    color: black;
     padding: 1rem;
-    border-color: rgb(247, 20, 255)
+    border-color: rgb(161, 111, 163)
 }
 
 button:hover {
-    background-color: rgb(156, 205, 92)
+    background-color: rgb(161, 111, 163)
 }
 
 input {
